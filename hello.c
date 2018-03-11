@@ -1,7 +1,7 @@
 #include<stdio.h>
-main()
+int main()
 {
 
-   printf("hello world , i have commited now\n");
-
+   printf("hello world , trying from ubuntu\n");
+	return 0;
 } 
